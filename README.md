@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Titouanvh/MenuFolder/releases/download/v1.0.0/MenuFolder-Launch.mp4">
+    <img src="assets/demo.gif" width="760" alt="Démonstration de MenuFolder">
+  </a>
+  <br>
+  <sub><a href="https://github.com/Titouanvh/MenuFolder/releases/download/v1.0.0/MenuFolder-Launch.mp4">Voir la vidéo en 1080p avec son (MP4)</a> · <a href="assets/MenuFolder-Launch.mp4">Fichier dans le dépôt</a></sub>
+</p>
+
+<p align="center">
   <img src="assets/folder-grid.png" width="260" alt="Grille du dossier MenuFolder">&nbsp;&nbsp;&nbsp;
   <img src="assets/icon-manager.png" width="320" alt="Gestionnaire Barre, Dossier et Cachée">
 </p>
